@@ -1,0 +1,16 @@
+{
+  "name": "اوس ديجيتال | AWS Digital",
+  "short_name": "AWS Digital",
+  "description": "شركة سعودية متخصصة في برمجة تطبيقات الجوال وتطوير مواقع الويب.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
